@@ -9,13 +9,24 @@ body{
     width: 75%;
     
 }
+body::before{
+    content: "";
+    background-color:  #E1E1E1;
+    width: 1141px;
+    left: 189px;
+    height: 880px;
+    z-index: -1;
+    position: absolute;
+}
 .top-header{
+    background-color: #E1E1E1;
     border: 1px solid black;
     position: relative;
     padding: 10px;
     margin: 10px;
 }
 nav{
+    background-color: #F6F6F6;
     border: 1px solid black;
     margin-top: 10px;
     margin-bottom: 5px;
@@ -23,6 +34,7 @@ nav{
     margin: 10px;
 }
 .s-1{
+    background-color: #E1E1E1;
     border: 1px solid black;
     position: absolute;
     left: 213px;
@@ -33,22 +45,26 @@ nav{
     box-sizing: border-box;
 }
 .s-head{
+    background-color: #F6F6F6;
     border: 1px solid black;
     padding: 10px;
     margin: 10px;
 }
 .s-nav{
-border: 1px solid black;
-margin: 10px;
-padding: 254px 0px;
+    background-color: #F6F6F6;
+    border: 1px solid black;
+    margin: 10px;
+    padding: 254px 0px;
 }
 .sfoot{
+    background-color: #F6F6F6;
     margin-top: 16px;
     border: 1px solid black;
     padding: 10px;
     margin: 10px;
 }
 .s-2{
+    background-color: #E1E1E1;
     border: 1px solid black;
     position: absolute;
     top: 150px;
@@ -59,65 +75,72 @@ padding: 254px 0px;
     right: 213px;
 }
 .h-sec{
+    background-color: #F6F6F6;
     border: 1px solid black;
     padding: 10px;
     margin: 10px;
 }
 .art1-sec{
-    padding: 10px;
+    padding: 0 10px;
     margin: 10px;
     border: 1px solid black;
 }
 .art1-h{
+    background-color: #F6F6F6;
     padding: 5px;
     margin: 10px;
     border: 1px solid black;
 }
 .art1-p{
+    background-color: #F6F6F6;
     padding: 5px;
     margin: 10px;
     border: 1px solid black;
 }
 .art1-f{
+    background-color: #F6F6F6;
     padding: 5px;
     margin: 10px;
     border: 1px solid black;
 }
 .art2-sec{
-    padding: 10px;
+    padding: 0 10px;
     margin: 10px;
     border: 1px solid black;
 }
 .art2-h{
+    background-color: #F6F6F6;
     padding: 5px;
     margin: 10px;
     border: 1px solid black;
 }
 .art2-p{
-    padding: 87px 227px;
-    margin: 10px;
+    background-color: #F6F6F6;
+    padding: 110px 227px;
     border: 1px solid black;
     display: inline-block;
     box-sizing: border-box;
     position: absolute;
-    left: 20px;
+    left: 30px;
 }
 .art2-as{
-    padding: 87px 100px;
-    margin: 10px;
+    background-color: #F6F6F6;
+    padding: 110px 100px;
     border: 1px solid black;
     display: inline-block;
     box-sizing: border-box;
     position: absolute;
-    right:20px;
+    right:30px;
 }
 .art2-f{
+    background-color: #F6F6F6;
     padding: 10px;
-    margin: 230px 8px 5px 8px;
+    margin: 260px 8px 16px 8px;
     border: 1px solid black;
     display: block;
 }
 .footer{
+    background-color: #E1E1E1;
     border: 1px solid black;
     position: relative;
     padding: 10px;
