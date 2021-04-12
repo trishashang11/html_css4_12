@@ -1,0 +1,126 @@
+*{
+    margin: 0 auto;
+    padding: 0;
+    text-align: center;
+}
+body{
+    border: 1px solid black;
+    height: 880px;
+    width: 75%;
+    
+}
+.top-header{
+    border: 1px solid black;
+    position: relative;
+    padding: 10px;
+    margin: 10px;
+}
+nav{
+    border: 1px solid black;
+    margin-top: 10px;
+    margin-bottom: 5px;
+    padding: 10px;
+    margin: 10px;
+}
+.s-1{
+    border: 1px solid black;
+    position: absolute;
+    left: 213px;
+    top: 150px;
+    width: 20%;
+    height: auto;
+    display: inline-block;
+    box-sizing: border-box;
+}
+.s-head{
+    border: 1px solid black;
+    padding: 10px;
+    margin: 10px;
+}
+.s-nav{
+border: 1px solid black;
+margin: 10px;
+padding: 254px 0px;
+}
+.sfoot{
+    margin-top: 16px;
+    border: 1px solid black;
+    padding: 10px;
+    margin: 10px;
+}
+.s-2{
+    border: 1px solid black;
+    position: absolute;
+    top: 150px;
+    width: 51%;
+    height: auto;
+    display: inline-block;
+    box-sizing: border-box;
+    right: 213px;
+}
+.h-sec{
+    border: 1px solid black;
+    padding: 10px;
+    margin: 10px;
+}
+.art1-sec{
+    padding: 10px;
+    margin: 10px;
+    border: 1px solid black;
+}
+.art1-h{
+    padding: 5px;
+    margin: 10px;
+    border: 1px solid black;
+}
+.art1-p{
+    padding: 5px;
+    margin: 10px;
+    border: 1px solid black;
+}
+.art1-f{
+    padding: 5px;
+    margin: 10px;
+    border: 1px solid black;
+}
+.art2-sec{
+    padding: 10px;
+    margin: 10px;
+    border: 1px solid black;
+}
+.art2-h{
+    padding: 5px;
+    margin: 10px;
+    border: 1px solid black;
+}
+.art2-p{
+    padding: 87px 227px;
+    margin: 10px;
+    border: 1px solid black;
+    display: inline-block;
+    box-sizing: border-box;
+    position: absolute;
+    left: 20px;
+}
+.art2-as{
+    padding: 87px 100px;
+    margin: 10px;
+    border: 1px solid black;
+    display: inline-block;
+    box-sizing: border-box;
+    position: absolute;
+    right:20px;
+}
+.art2-f{
+    padding: 10px;
+    margin: 230px 8px 5px 8px;
+    border: 1px solid black;
+    display: block;
+}
+.footer{
+    border: 1px solid black;
+    position: relative;
+    padding: 10px;
+    margin: 10px;
+    top: 690px;
+}
