@@ -5,7 +5,7 @@
 }
 body{
     border: 1px solid black;
-    height: 880px;
+    height: 925px;
     width: 75%;
     
 }
@@ -54,7 +54,7 @@ nav{
     background-color: #F6F6F6;
     border: 1px solid black;
     margin: 10px;
-    padding: 254px 0px;
+    padding: 278px 0px;
 }
 .sfoot{
     background-color: #F6F6F6;
@@ -139,11 +139,18 @@ nav{
     border: 1px solid black;
     display: block;
 }
+.art2-ff{
+    background-color: #F6F6F6;
+    padding: 10px;
+    margin: 10px 8px 10px 8px;
+    border: 1px solid black;
+    display: block;
+}
 .footer{
     background-color: #E1E1E1;
     border: 1px solid black;
     position: relative;
     padding: 10px;
     margin: 10px;
-    top: 690px;
+    top: 738px;
 }
